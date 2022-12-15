@@ -2558,7 +2558,7 @@
     "micromatch": "4.0.4",
     "pdfjs-dist": "3.0.279",
     "tmp": "0.2.1",
-    "workerpool": "6.2.0",
+    "workerpool": "6.3.1",
     "ws": "8.5.0"
   },
   "devDependencies": {
