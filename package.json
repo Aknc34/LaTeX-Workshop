@@ -2559,7 +2559,7 @@
     "pdfjs-dist": "3.0.279",
     "tmp": "0.2.1",
     "workerpool": "6.2.0",
-    "ws": "8.5.0"
+    "ws": "8.11.0"
   },
   "devDependencies": {
     "@types/cross-spawn": "6.0.2",
