@@ -2551,13 +2551,13 @@
   "dependencies": {
     "chokidar": "3.5.3",
     "cross-spawn": "7.0.3",
-    "glob": "7.2.0",
+    "glob": "11.0.3",
     "iconv-lite": "0.6.3",
     "latex-utensils": "4.5.0",
     "mathjax-full": "3.2.0",
     "micromatch": "4.0.4",
-    "pdfjs-dist": "3.0.279",
-    "tmp": "0.2.1",
+    "pdfjs-dist": "4.4.168",
+    "tmp": "0.2.3",
     "workerpool": "6.2.0",
     "ws": "8.5.0"
   },
